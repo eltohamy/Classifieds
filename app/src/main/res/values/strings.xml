@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Classifieds</string>
+    <string name="retry">Retry</string>
+    <string name="error">Error while loading classifieds</string>
+    <string name="empty_response">No classifieds found</string>
+</resources>
